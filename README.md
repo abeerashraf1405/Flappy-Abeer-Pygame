@@ -1,5 +1,7 @@
 # Flappy Abeer 🐦
 
+![Flappy Bird Game](demo.png)
+
 A high-fidelity Flappy Bird clone built using `Pygame`. This version features enhanced visuals like parallax clouds, smooth bird rotations, particle effects on jumps/collisions, and a screen-shake system.
 
 
